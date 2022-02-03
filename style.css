@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+}
+li{
+    list-style: none; 
+    margin-right: 2rem;
+    font-weight: 800;
+    font-size: larger;
+    padding-top: 7px;
+}
+.navbar>nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    
+}
+.navbar h1{
+    font-weight: bolder;
+    margin-left: 2rem;
+}
+.landingImg>img{
+    height: 100vh;
+    width: 98vw;
+    border-radius: 1rem;
+    margin-left: 0.5rem;
+}
+.footer{
+    height: 3rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer>span{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 10px ;
+    
+}
+.container{
+    display: flex;
+}
+.container>div{
+    text-align: center;
+    font-weight: 600;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+.container p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* https://flukeout.github.io/ */
+
